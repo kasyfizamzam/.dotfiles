@@ -120,6 +120,7 @@ export PATH=$HOME/.local/bin:$PATH
 alias ls="eza --icons"
 alias cd="z"
 alias cat="batcat"
+alias _="sudo"
 
 # git
 alias gc="git clone"
