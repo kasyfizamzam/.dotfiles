@@ -1,0 +1,28 @@
+# Font settings
+
+font-family = TX-02 Bold Condensed
+font-size = 10
+font-thicken = true
+
+# Theme settings
+theme =  "Kanagawa Wave"
+
+# Cursor settings
+cursor-style = underline
+
+# Window settings
+window-padding-balance = true
+window-save-state = always
+window-decoration = server
+
+# Mouse and typing settings
+mouse-hide-while-typing = true
+
+# Font features
+font-feature = liga
+
+# Clipboard and shell settings
+clipboard-read = "allow"
+shell-integration = zsh
+
+quick-terminal-position = center
