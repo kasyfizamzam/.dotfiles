@@ -1,0 +1,37 @@
+{
+  "buffer_line_height": "comfortable",
+  "terminal": {
+    "cursor_shape": "underline"
+  },
+  "prettier": {
+    "allowed": true
+  },
+  "indent_guides": {
+    "enabled": false
+  },
+  "soft_wrap": "editor_width",
+  "toolbar": {
+    "code_actions": true,
+    "breadcrumbs": true
+  },
+  "autosave": "on_window_change",
+  "show_wrap_guides": false,
+  "telemetry": {
+    "diagnostics": false,
+    "metrics": false
+  },
+  "icon_theme": "Colored Zed Icons Theme Dark",
+  "ui_font_size": 13.2,
+  "buffer_font_size": 12.2,
+  "ui_font_family": "NRK Mono Condensed",
+  "buffer_font_family": "NRK Mono Condensed",
+  "theme": {
+    "mode": "system",
+    "light": "Kanagawa Wave - No Italics",
+    "dark": "Kanagawa Wave - No Italics"
+  },
+  "formatter": "language_server",
+  "scrollbar": {
+    "show": "auto"
+  }
+}
