@@ -5,7 +5,7 @@ font-size = 10
 font-thicken = true
 
 # Theme settings
-theme =  "Kanagawa Wave"
+theme =  "Kanagawa Dragon"
 
 # Cursor settings
 cursor-style = underline
@@ -14,6 +14,7 @@ cursor-style = underline
 window-padding-balance = true
 window-save-state = always
 window-decoration = server
+window-padding-x = 10
 
 # Mouse and typing settings
 mouse-hide-while-typing = true
