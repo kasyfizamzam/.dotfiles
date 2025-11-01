@@ -1,4 +1,8 @@
 {
+  "tabs": {
+    "file_icons": true
+  },
+  "buffer_font_weight": 450.0,
   "buffer_line_height": "comfortable",
   "terminal": {
     "cursor_shape": "underline"
@@ -21,14 +25,14 @@
     "metrics": false
   },
   "icon_theme": "Colored Zed Icons Theme Dark",
-  "ui_font_size": 13.2,
-  "buffer_font_size": 12.2,
+  "ui_font_size": 13.5,
+  "buffer_font_size": 12.5,
   "ui_font_family": "NRK Mono Condensed",
   "buffer_font_family": "NRK Mono Condensed",
   "theme": {
     "mode": "system",
-    "light": "Kanagawa Wave - No Italics",
-    "dark": "Kanagawa Wave - No Italics"
+    "light": "Catppuccin Mocha - No Italics",
+    "dark": "Catppuccin Mocha - No Italics"
   },
   "formatter": "language_server",
   "scrollbar": {
