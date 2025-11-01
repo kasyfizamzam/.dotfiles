@@ -1,11 +1,10 @@
 # Font settings
-
 font-family = TX-02 Bold Condensed
 font-size = 10
 font-thicken = true
 
 # Theme settings
-theme =  "Kanagawa Dragon"
+theme =  "Catppuccin Mocha"
 
 # Cursor settings
 cursor-style = underline
@@ -27,3 +26,4 @@ clipboard-read = "allow"
 shell-integration = zsh
 
 quick-terminal-position = center
+gtk-toolbar-style = flat
